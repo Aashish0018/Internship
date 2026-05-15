@@ -92,7 +92,7 @@ $students = [
 
     [
         "roll_no" => 102,
-        "name" => "Priya",
+        "name" => "Shrey",
         "city" => "Surat",
         "php" => 70,
         "mysql" => 65,
@@ -114,7 +114,7 @@ $students = [
 
     [
         "roll_no" => 104,
-        "name" => "Sneha",
+        "name" => "Sujal",
         "city" => "Rajkot",
         "php" => 95,
         "mysql" => 91,
@@ -125,7 +125,7 @@ $students = [
 
     [
         "roll_no" => 105,
-        "name" => "Karan",
+        "name" => "Aashish",
         "city" => "Anand",
         "php" => 30,
         "mysql" => 35,
@@ -136,7 +136,7 @@ $students = [
 
     [
         "roll_no" => 106,
-        "name" => "Neha",
+        "name" => "kirtan",
         "city" => "Mumbai",
         "php" => 78,
         "mysql" => 82,
@@ -158,7 +158,7 @@ $students = [
 
     [
         "roll_no" => 108,
-        "name" => "Pooja",
+        "name" => "Yash",
         "city" => "Pune",
         "php" => 85,
         "mysql" => 89,
